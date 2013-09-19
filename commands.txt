@@ -72,28 +72,4 @@ end
 => [1, 2]
 
 array
-=> [1, 2, 3, 4]**2
-end
-=> fill_in_what_irb_returns_here
-
-array
-=> fill_in_what_irb_returns_here
-
-array = [1,2,3]
-
-array.inject(0) do |sum, e|
-  sum += e
-  sum
-end
-=> fill_in_what_irb_returns_here
-
-array
-=> fill_in_what_irb_returns_here
-
-array.reject do |e|
-  e > 2
-end
-=> fill_in_what_irb_returns_here
-
-array
-=> fill_in_what_irb_returns_here
+=> [1, 2, 3, 4]
